@@ -3,7 +3,7 @@
 
 -----手机端下载方法------=====
 
-**1.将链接复制到浏览器
+**1.将链接复制到浏览器**
 
 ![image](https://github.com/SmokeJeason/downloadAPK/raw/master/images/phoneDownload1.jpg)
 
