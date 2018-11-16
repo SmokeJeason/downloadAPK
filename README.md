@@ -3,7 +3,7 @@
 微云网盘下载链接（假如失效，就用电脑端网站打开本网址）
 -----------
 
-https://share.weiyun.com/5CfoY3i
+https://share.weiyun.com/5CfoY3i   软件需要VPN支持
 
 手机端下载方法
 -----------
