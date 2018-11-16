@@ -7,9 +7,9 @@
 2.将手机版网站切换到电脑版网站
 3.同样的点击【clone or download】按钮下载
 
-![image](https://github.com/SmokeJeason/downloadAPK/raw/master/images/phoneDownload1.jgp)
-![image](https://github.com/SmokeJeason/downloadAPK/raw/master/images/phoneDownload2.jgp)
-![image](https://github.com/SmokeJeason/downloadAPK/raw/master/images/phoneDownload3.jgp)
+![image](https://github.com/SmokeJeason/downloadAPK/raw/master/images/phoneDownload1.jpg)
+![image](https://github.com/SmokeJeason/downloadAPK/raw/master/images/phoneDownload2.jpg)
+![image](https://github.com/SmokeJeason/downloadAPK/raw/master/images/phoneDownload3.jpg)
 
 
 -----电脑端下载方法------
