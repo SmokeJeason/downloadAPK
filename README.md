@@ -2,6 +2,7 @@
 
 你可以在这里下载最新的APK文件！
 
+
 -----手机端下载方法------
 -----------
 
@@ -18,6 +19,8 @@
 ![image](https://github.com/SmokeJeason/downloadAPK/raw/master/images/phoneDownload3.jpg)
 
 
+
+
 -----电脑端下载方法------
 -----------
 
@@ -26,6 +29,9 @@
 ![image](https://github.com/SmokeJeason/downloadAPK/raw/master/images/pcDownload.png)
 
 **2.解压文件夹就可以了**
+
+
+
 
 -----Shadowsocks使用方法------
 -----------
