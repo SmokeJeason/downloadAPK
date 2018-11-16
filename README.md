@@ -10,7 +10,6 @@
 ![image](https://github.com/SmokeJeason/downloadAPK/raw/master/images/downloads1.png)
 ![image](https://github.com/SmokeJeason/downloadAPK/raw/master/images/downloads2.png)
 ![image](https://github.com/SmokeJeason/downloadAPK/raw/master/images/downloads3.png)
-![image](https://github.com/SmokeJeason/downloadAPK/raw/master/images/downloads4.png)
 
 
 -----电脑端下载方法------
