@@ -5,7 +5,7 @@
 
 [点击这里下载本成人软件](https://share.weiyun.com/5CfoY3i)
 
-[翻墙辅助工具v2ray安卓版点这里](https://share.weiyun.com/5BwzM8Z)
+[翻墙辅助工具v2ray安卓版点这里](链接：https://share.weiyun.com/5HzD4JQ)
 
 [点击这里购买VPN](https://client.kkfast.com/aff.php?aff=46)
 
