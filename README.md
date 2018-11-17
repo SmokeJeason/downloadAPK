@@ -1,12 +1,11 @@
 **合作加企鹅:2086622302**
-微云网盘下载链接（假如失效，就用电脑端网站打开本网址）
+
+使用方法看下面教程！！！
 -----------
 
 软件链接：https://share.weiyun.com/5CfoY3i
 
 V2ray安卓端链接：https://share.weiyun.com/5BwzM8Z
-
-
 
 [点击这里购买VPN](https://client.kkfast.com/aff.php?aff=46)
 
@@ -40,7 +39,7 @@ V2ray安卓端链接：https://share.weiyun.com/5BwzM8Z
 
 
 
-Shadowsocks使用方法
+v2ray使用方法
 -----------
 
 1.扫描二维码添加配置文件就能访问外网啦。
