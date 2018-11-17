@@ -3,9 +3,9 @@
 使用方法看下面教程！！！
 -----------
 
-软件链接：https://share.weiyun.com/5CfoY3i
+[点击这里下载本成人软件](https://share.weiyun.com/5CfoY3i)
 
-V2ray安卓端链接：https://share.weiyun.com/5BwzM8Z
+[翻墙辅助工具安卓版点这里](V2ray安卓端链接：https://share.weiyun.com/5BwzM8Z)
 
 [点击这里购买VPN](https://client.kkfast.com/aff.php?aff=46)
 
