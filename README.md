@@ -42,5 +42,7 @@ v2ray使用方法
 
 1.扫描二维码添加配置文件就能访问外网啦。
 
+
 ![image](https://github.com/SmokeJeason/downloadAPK/raw/master/images/BifrostV.jpg)
+![image](https://github.com/SmokeJeason/downloadAPK/raw/master/images/v2ray.png)
 
