@@ -3,8 +3,10 @@
 -----------
 
 软件链接：https://share.weiyun.com/5CfoY3i
+
 V2ray安卓端链接：https://share.weiyun.com/5BwzM8Z
-【购买VPN】(https://client.kkfast.com/aff.php?aff=46)
+
+[购买VPN](https://client.kkfast.com/aff.php?aff=46)
 
 手机端下载方法
 -----------
