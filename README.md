@@ -1,6 +1,6 @@
 **合作加企鹅:2086622302**
 
-看完这个教程需要2分钟,手机端点击View all of README.md！
+点击View all of README.md按钮！点击View all of README.md按钮！点击View all of README.md按钮！
 -----------
 
 [点击这里下载本成人软件](https://share.weiyun.com/5CfoY3i)
