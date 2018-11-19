@@ -1,6 +1,6 @@
 **合作加企鹅:2086622302**
 
-点击View all of README.md按钮！点击View all of README.md按钮！点击View all of README.md按钮！
+点击下方蓝色字体的"View all of README.md"按钮！
 -----------
 
 [点击这里下载本成人软件](https://share.weiyun.com/5CfoY3i)
